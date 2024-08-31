@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the_sparkle_33/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomiya-sk/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ruba_hari01/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruba-renugavathi/)
 
 <h1 align="center">Hi 👋, I'm Ruba Renugavathi</h1>
 <h3 align="center">I am an Full Stack Developer with the Passion of Learning</h3>
