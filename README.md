@@ -12,7 +12,7 @@
 
 >Full-stack development is the puzzle where every piece is a line of code waiting to be placed
 
-<br><br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rubarenu0" alt="Rubarenu0" /></a> </p>
 
 ---
